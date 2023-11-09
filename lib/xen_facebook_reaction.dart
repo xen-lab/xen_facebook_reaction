@@ -1,7 +1,4 @@
-library xen_facebook_reaction;
+// BSD License. Copyright © Kiran Paudel. All rights reserved
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+export 'src/dock_widget.dart';
+// export 'src/overlay_widget.dart';
